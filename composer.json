@@ -1,0 +1,28 @@
+{
+    "name": "mikoj/hack-test",
+    "description": "bla bla",
+    "keywords": ["mikoj", "hack", "test"],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Grzegorz Synowiec",
+            "email": "mikoj@mynwt.eu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mikoj\\HackTest\\": ""
+        }
+    },
+    "minimum-stability": "stable",
+    "config": {
+        "bin-dir": "./bin"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.9999-dev",
+            "dev-develop": "1.0-dev"
+        }
+    }
+}

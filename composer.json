@@ -1,6 +1,6 @@
 {
     "name": "mikoj/hack-test",
-    "description": "bla bla",
+    "description": "HackLang playground",
     "keywords": ["mikoj", "hack", "test"],
     "type": "project",
     "license": "MIT",

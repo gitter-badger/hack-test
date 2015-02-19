@@ -4,7 +4,7 @@ namespace Mikoj\HackTest;
 
 class Test {
 
-	function getTest(): string {
+	public function getTest(): string {
 
 		return 'test pass';
 	}
